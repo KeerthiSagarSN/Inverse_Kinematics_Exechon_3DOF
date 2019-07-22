@@ -27,27 +27,30 @@ Python 2.7, Numpy, Matplotlib, Qt5 library
 
 1.1 (x,y,z) = [0,0,0.35]
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/KeerthiSagarSN/Inverse_Kinematics_Exechon_3DOF/blob/master/Output_images/x_0_y_0_z_0.35_img1.png)
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/KeerthiSagarSN/Inverse_Kinematics_Exechon_3DOF/blob/master/Output_images/x_0_y_0_z_0.35_img2.png)
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/KeerthiSagarSN/Inverse_Kinematics_Exechon_3DOF/blob/master/Output_images/x_0_y_0_z_0.35_img3.png)
 
 
 1.2 (x,y,z) = [0,0.2,0.35]
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/KeerthiSagarSN/Inverse_Kinematics_Exechon_3DOF/blob/master/Output_images/x_0_y_0.2_z_0.35_img1.png)
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/KeerthiSagarSN/Inverse_Kinematics_Exechon_3DOF/blob/master/Output_images/x_0_y_0.2_z_0.35_img2.png)
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/KeerthiSagarSN/Inverse_Kinematics_Exechon_3DOF/blob/master/Output_images/x_0_y_0.2_z_0.35_img3.png)
+
 
 1.3 (x,y,z) = [0.05,0.2,0.30]
 
-![alt text](http://url/to/img.png)
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/KeerthiSagarSN/Inverse_Kinematics_Exechon_3DOF/blob/master/Output_images/x_0.05_y_0.2_z_0.30_img1.png)
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/KeerthiSagarSN/Inverse_Kinematics_Exechon_3DOF/blob/master/Output_images/x_0.05_y_0.2_z_0.30_img2.png)
+
+![alt text](https://github.com/KeerthiSagarSN/Inverse_Kinematics_Exechon_3DOF/blob/master/Output_images/x_0.05_y_0.2_z_0.30_img3.png)
+
 
 2. Joints (Actuated joint length), in this case, the stroke of each linear actuator to achieve the desired pose for the platform and the spherical joint.
