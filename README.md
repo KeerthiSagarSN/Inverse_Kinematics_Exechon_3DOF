@@ -24,4 +24,30 @@ Python 2.7, Numpy, Matplotlib, Qt5 library
 # Output
 
 1. Visual output (Matplotlib graphs)
+
+1.1 (x,y,z) = [0,0,0.35]
+
+![alt text](http://url/to/img.png)
+
+![alt text](http://url/to/img.png)
+
+![alt text](http://url/to/img.png)
+
+
+1.2 (x,y,z) = [0,0.2,0.35]
+
+![alt text](http://url/to/img.png)
+
+![alt text](http://url/to/img.png)
+
+![alt text](http://url/to/img.png)
+
+1.3 (x,y,z) = [0.05,0.2,0.30]
+
+![alt text](http://url/to/img.png)
+
+![alt text](http://url/to/img.png)
+
+![alt text](http://url/to/img.png)
+
 2. Joints (Actuated joint length), in this case, the stroke of each linear actuator to achieve the desired pose for the platform and the spherical joint.
