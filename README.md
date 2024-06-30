@@ -54,3 +54,43 @@ Python 2.7, Numpy, Matplotlib, Qt5 library
 
 
 2. Joints (Actuated joint length), in this case, the stroke of each linear actuator to achieve the desired pose for the platform and the spherical joint.
+
+
+If you found this code useful, we would be grateful if you cite the following reference:
+
+[1] Sagar, Keerthi, Vishal Ramadoss, and Matteo Zoppi. "Towards High Dynamic Operations With Parallel-Serial Hybrid Robots." International Design Engineering Technical Conferences and Computers and Information in Engineering Conference. Vol. 87363. American Society of Mechanical Engineers, 2023.
+
+[2] Zoppi, Matteo, Dimiter Zlatanov, and Rezia Molfino. "Kinematics analysis of the Exechon tripod." International design engineering technical conferences and computers and information in engineering conference. Vol. 44106. 2010.
+
+Bibtex:
+
+```
+@inproceedings{sagar2023towards,
+  title={Towards High Dynamic Operations With Parallel-Serial Hybrid Robots},
+  author={Sagar, Keerthi and Ramadoss, Vishal and Zoppi, Matteo},
+  booktitle={International Design Engineering Technical Conferences and Computers and Information in Engineering Conference},
+  volume={87363},
+  pages={V008T08A064},
+  year={2023},
+  organization={American Society of Mechanical Engineers}
+}
+```
+```
+@inproceedings{zoppi2010kinematics,
+  title={Kinematics analysis of the Exechon tripod},
+  author={Zoppi, Matteo and Zlatanov, Dimiter and Molfino, Rezia},
+  booktitle={International design engineering technical conferences and computers and information in engineering conference},
+  volume={44106},
+  pages={1381--1388},
+  year={2010}
+}
+
+```
+
+You can find the video accompanying for the article [here]([[https://studio.youtube.com/video/V-pb8RU4bpY/edit](https://youtu.be/V-pb8RU4bpY)](https://www.youtube.com/watch?v=V-pb8RU4bpY))
+
+
+
+
+
+
