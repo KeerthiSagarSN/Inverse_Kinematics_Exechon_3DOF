@@ -87,7 +87,7 @@ Bibtex:
 
 ```
 
-You can find the video accompanying for the article [here]([[https://studio.youtube.com/video/V-pb8RU4bpY/edit](https://youtu.be/V-pb8RU4bpY)](https://www.youtube.com/watch?v=V-pb8RU4bpY))
+You can find the video accompanying for the article [here](https://www.youtube.com/watch?v=V-pb8RU4bpY)
 
 
 
